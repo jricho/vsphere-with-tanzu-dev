@@ -6,7 +6,7 @@ type: Opaque
 data:
   mysql_user: ZGV2b3Bz
   db_passwd: cGFzc3dvcmQ=
-  mysql_host: <BASE64_ENCODED_IP_FOR_mysql-db>
+  mysql_host: MTAuMjIwLjkuNzA=
   db_name: ZGVtbw==
 
 ---

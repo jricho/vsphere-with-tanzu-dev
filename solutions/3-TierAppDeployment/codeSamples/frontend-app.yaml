@@ -5,7 +5,7 @@ metadata:
 type: Opaque
 data:
   #api_url: <BASE64_ENCODED_IP:PORT_FOR_backend-app-service>
-  api_url: MTkyLjE2OC4xMjMuNAo=
+  api_url: MTAuMjIwLjkuNzI6NTAwMA==
 
 ---
 apiVersion: apps/v1

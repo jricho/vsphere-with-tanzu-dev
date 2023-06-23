@@ -18,7 +18,7 @@ spec:
   topology:
     controlPlane:
       replicas: 1
-      storageClass: k8s-storage-policy
+      storageClass: vc01cl01-t0compute
       tkr:
         reference:
           name: v1.22.9---vmware.1-tkg.1.cc71bc8 
@@ -26,7 +26,7 @@ spec:
     nodePools:
     - name: worker-nodepool-a1    
       replicas: 2
-      storageClass: k8s-storage-policy
+      storageClass: vc01cl01-t0compute
       tkr:
         reference:
           name: v1.22.9---vmware.1-tkg.1.cc71bc8
