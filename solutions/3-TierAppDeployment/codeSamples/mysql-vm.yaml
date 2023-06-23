@@ -9,7 +9,7 @@ spec:
   imageName: ubuntu-20-1633387172196
   className: best-effort-small
   powerState: poweredOn
-  storageClass: wcpglobal-storage-profile
+  storageClass: vc01cl01-t0compute
   networkInterfaces:
   - networkName:
     networkType: nsx-t
